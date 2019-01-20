@@ -6,7 +6,7 @@
 
 * add all
 * commit
-* add msg
+* input msg
 * push
 
 # INSTALL
